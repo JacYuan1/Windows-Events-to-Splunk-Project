@@ -40,4 +40,4 @@ The tools used here are the following:
 
 ## References
 
-[Written report linked here]()
+[Written report linked here](https://github.com/JacYuan1/Windows-Event-to-Splunk-Project/blob/main/Written%20Report.pdf)
